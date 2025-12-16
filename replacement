@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Lancement du raccourci</title>
+    <meta http-equiv="refresh" content="0; URL=shortcuts://run-shortcut?name=Remplacement%20de%20texte">
+  </head>
+  <body>
+    <p>Redirection…</p>
+    <script>
+      window.location.href = "shortcuts://run-shortcut?name=Remplacement%20de%20texte";
+    </script>
+  </body>
+</html>
